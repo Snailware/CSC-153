@@ -1,0 +1,10 @@
+C:\Users\Adaml\source\repos\DLExam\DLExam\bin\Debug\DLExam.exe.config
+C:\Users\Adaml\source\repos\DLExam\DLExam\bin\Debug\DLExam.exe
+C:\Users\Adaml\source\repos\DLExam\DLExam\bin\Debug\DLExam.pdb
+C:\Users\Adaml\source\repos\DLExam\DLExam\obj\Debug\DLExam.csprojAssemblyReference.cache
+C:\Users\Adaml\source\repos\DLExam\DLExam\obj\Debug\DLExam.Properties.Resources.resources
+C:\Users\Adaml\source\repos\DLExam\DLExam\obj\Debug\DLExam.csproj.GenerateResource.cache
+C:\Users\Adaml\source\repos\DLExam\DLExam\obj\Debug\DLExam.csproj.CoreCompileInputs.cache
+C:\Users\Adaml\source\repos\DLExam\DLExam\obj\Debug\DLExam.exe
+C:\Users\Adaml\source\repos\DLExam\DLExam\obj\Debug\DLExam.pdb
+C:\Users\Adaml\source\repos\DLExam\DLExam\obj\Debug\DLExam.Main_Form.resources
